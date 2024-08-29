@@ -2,7 +2,6 @@
 """
 N queens problem
 """
-
 import sys
 
 
